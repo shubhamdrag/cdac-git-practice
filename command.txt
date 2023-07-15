@@ -1,0 +1,15 @@
+git commands
+
+git init =>to initialise git on project
+
+git add -A =>to add files to staged state (git tracking all file)
+
+git commit
+
+git branch
+
+git log
+
+git diff
+
+git merge
